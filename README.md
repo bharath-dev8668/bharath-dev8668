@@ -15,7 +15,6 @@
 # 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thommandru-bharath-677250360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathtommandru1@gmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@Bharath%20Tommandru)
 
 
 # 💻 Tech Stack
